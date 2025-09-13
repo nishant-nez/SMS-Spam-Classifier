@@ -1,4 +1,4 @@
-# SMS Spam Classifier
+# [SMS Spam Classifier 📩](https://spam-classifier.nishantkhadka.com.np/)
 
 This project is a machine learning application that classifies SMS messages as **Spam** or **Ham (Not Spam)** using natural language processing (NLP) techniques.
 It includes both a Jupyter Notebook for model training and a **Streamlit web app** for easy interaction with the model.
